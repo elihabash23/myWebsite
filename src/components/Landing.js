@@ -27,7 +27,7 @@ export default class Landing extends Component {
               <p className="about-me">
                 Check out my web and mobile projects below! If you're a
                 recruiter looking to hire, feel free to email me at
-                eliashabash18@gmail.com.
+                eliashabash18@gmail.com to get in touch.
               </p>
             </div>
             <div className="col-lg-4">
