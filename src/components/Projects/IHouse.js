@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import LikeHomeScreenShot from "../../screenshots/GIA-TimeSheet.png";
+import GIATimesheetscreenShot from "../../screenshots/GIA-Timesheet.png";
 
 class Projects extends Component {
   render() {
@@ -12,7 +12,7 @@ class Projects extends Component {
                 <img
                   className="thumbnail img-thumbnail"
                   alt="Project 1"
-                  src={LikeHomeScreenShot}
+                  src={GIATimesheetscreenShot}
                 />
               </div>
             </div>
