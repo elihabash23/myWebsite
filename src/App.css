@@ -7,7 +7,7 @@
 .far,
 .fas {
   line-height: 2;
-  padding: 5px;
+  padding: 8px;
 }
 
 .App-logo {
@@ -42,8 +42,13 @@ p.about-me {
   font-family: "Roboto Mono", monospace;
 }
 
+.android-pic {
+  height: 400px;
+  width: 200px
+}
+
 .margin-bottom-200 {
-  margin-bottom: 200px;
+  margin-bottom: 75px;
 }
 
 body {

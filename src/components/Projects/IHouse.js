@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import GIATimesheetscreenShot from "../../screenshots/GIA-Timesheet.png";
+//import GIATimesheetscreenShot from "../../screenshots/GIA-Timesheet.png";
+import MyCarousel from "../MyCarousel";
 
 class Projects extends Component {
   render() {
@@ -8,13 +9,7 @@ class Projects extends Component {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6">
-              <div className="project-photo">
-                <img
-                  className="thumbnail img-thumbnail"
-                  alt="Project 1"
-                  src={GIATimesheetscreenShot}
-                />
-              </div>
+              <MyCarousel />
             </div>
 
             <div className="col-lg-6">

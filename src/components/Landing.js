@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Projects from "./Projects.js";
 import ProfilePic from "../screenshots/ProfilePic.jpg";
+import MySkillsBar from "./MySkillsBar";
 
 export default class Landing extends Component {
   render() {
@@ -27,7 +28,7 @@ export default class Landing extends Component {
               <p className="about-me">
                 Check out my web and mobile projects below! If you're a
                 recruiter looking to hire, feel free to email me at
-                eliashabash18@gmail.com to get in touch.
+                eliashabash18@gmail.com or call my cell (408) 658-4036 to get in touch.
               </p>
             </div>
             <div className="col-lg-4">
@@ -38,6 +39,7 @@ export default class Landing extends Component {
               />
             </div>
           </div>
+          <MySkillsBar />
           <hr />
           <Projects />
         </div>

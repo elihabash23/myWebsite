@@ -49,7 +49,7 @@ class Navbar extends Component {
                   <i className="fab fa-facebook" />
                 </a>
               </li>
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <Link className="nav-link" to="/projects">
                   {" "}
                   Projects
@@ -60,7 +60,7 @@ class Navbar extends Component {
                   {" "}
                   Resume
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>

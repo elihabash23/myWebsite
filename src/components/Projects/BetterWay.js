@@ -1,7 +1,5 @@
 import React, { Component } from "react";
-import LikeHomeScreenShot from "../../screenshots/LikeHome.png";
 import BetterWayScreenShot from "../../screenshots/BetterWay.png";
-
 class Projects extends Component {
   render() {
     return (
