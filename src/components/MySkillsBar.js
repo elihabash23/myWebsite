@@ -7,6 +7,7 @@ class MySkillsBar extends Component {
     super(props);
     this.skills = [
       {type: "Java", level: 80},
+      {type: "Android", level: 75},
       {type: "HTML/HTML5", level: 75},
       {type: "CSS/CSS3", level: 75},
       {type: "Javascript", level: 75},
@@ -30,7 +31,7 @@ class MySkillsBar extends Component {
   render() {
     return (
       <div>
-        <SkillBar skills={this.skills} colors={this.colors} height={30}/>
+        <SkillBar skills={this.skills} colors={this.colors} height={25}/>
       </div>
     )
   }
