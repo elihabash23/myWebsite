@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
 import { Carousel } from 'react-responsive-carousel';
-import Connect3img1 from "../../screenshots/Connect3-1.jpeg";
-import Connect3img2 from "../../screenshots/Connect3-2.png";
+import WhatsTheWeather1 from "../../screenshots/WhatsTheWeather1.png";
+import WhatsTheWeather2 from "../../screenshots/WhatsTheWeather2.png";
+import WhatsTheWeather3 from "../../screenshots/WhatsTheWeather3.png";
 
 
-
-class Connect3 extends Component {
+class WhatsTheWeather extends Component {
   render() {
     return (
       <div>
@@ -15,10 +15,13 @@ class Connect3 extends Component {
               <div style={{marginLeft:'150px'}}>
                 <Carousel width="300px">
                     <div>
-                        <img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={Connect3img1} alt="Connect 3 img 1"/>
+                        <img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={WhatsTheWeather1} alt="Connect 3 img 1"/>
                     </div>
                     <div>
-                        <img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={Connect3img2} alt="Connect 3 img 2"/>
+                        <img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={WhatsTheWeather2} alt="Connect 3 img 2"/>
+                    </div>
+                    <div>
+                        <img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={WhatsTheWeather3} alt="Connect 3 img 2"/>
                     </div>
                 </Carousel>
               </div>
@@ -26,23 +29,23 @@ class Connect3 extends Component {
 
             <div className="col-lg-6">
               <div className="project-item">
-              <h2 style={{display: "inline-block", paddingRight: "10px"}}>Connect 3</h2> 
+              <h2 style={{display: "inline-block", paddingRight: "10px"}}>What's The Weather</h2> 
                     <a class="github-button" 
-                      href="https://github.com/elihabash23/Connect3" 
+                      href="https://github.com/elihabash23/WhatsTheWeather" 
                       data-icon="octicon-star" 
                       aria-label="Star ntkme/github-buttons on GitHub">Star</a>
                 <h4> Developer / Tester </h4>
                 <div className="project-description">
                   <p>
-                  Connect3 is an Android game where the objective is to connect three 
-                  circles together either horizontally, vertically, or diagonally 
-                  (Similar to Tic Tac Toe). Two players are required to play the game. 
+                  An Android application that displays weather information of 
+                  the city that a users inputs.
                   </p>
                 </div>
                 <div className="project-technologies">
                   <ul className="skills">
                     <li>Android Studio</li>
                     <li>Java</li>
+                    <li>JSON</li>
                     <li>XML</li>
                   </ul>
                 </div>
@@ -56,4 +59,4 @@ class Connect3 extends Component {
   }
 }
 
-export default Connect3;
+export default WhatsTheWeather;

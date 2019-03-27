@@ -18,7 +18,11 @@ class Projects extends Component {
 
             <div className="col-lg-6">
               <div className="project-item">
-                <h2>BetterWay</h2>
+              <h2 style={{display: "inline-block", paddingRight: "10px"}}>BetterWay</h2> 
+                    <a class="github-button" 
+                      href="https://github.com/lalquran/BetterWay" 
+                      data-icon="octicon-star" 
+                      aria-label="Star ntkme/github-buttons on GitHub">Star</a>
                 <h4> Back-end Developer / Tester </h4>
                 <div className="project-description">
                   <p>

@@ -13,7 +13,7 @@ class BrainTrainer extends Component {
           <div className="row align-items-center">
             <div className="col-lg-6">
               <div style={{marginLeft:'150px'}}>
-                <Carousel width="200px">
+                <Carousel width="300px">
                     <div>
                         <img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={BrainTrainerimg2} alt="Connect 3 img 1"/>
                     </div>
@@ -26,7 +26,11 @@ class BrainTrainer extends Component {
 
             <div className="col-lg-6">
               <div className="project-item">
-                <h2>BrainTrainer</h2>
+              <h2 style={{display: "inline-block", paddingRight: "10px"}}>Brain Trainer</h2> 
+                    <a class="github-button" 
+                      href="https://github.com/elihabash23/BrainTrainer" 
+                      data-icon="octicon-star" 
+                      aria-label="Star ntkme/github-buttons on GitHub">Star</a>
                 <h4> Developer / Tester </h4>
                 <div className="project-description">
                   <p>

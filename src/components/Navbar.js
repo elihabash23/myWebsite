@@ -8,7 +8,7 @@ class Navbar extends Component {
         <div className="container">
           <Link className="navbar-brand" to="/">
             <div>
-              <h4>E L I A S &nbsp; H A B A S H </h4>
+              <h4 onClick="document.getElementById('Top').scrollIntoView();">E L I A S &nbsp; H A B A S H </h4>
             </div>
           </Link>
           <button
@@ -16,6 +16,9 @@ class Navbar extends Component {
             type="button"
             data-toggle="collapse"
             data-target="#mobile-nav"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
           >
             <span className="navbar-toggler-icon" />
           </button>
