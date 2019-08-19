@@ -1,6 +1,10 @@
 import React, { Component } from "react";
 //import GIATimesheetscreenShot from "../../screenshots/GIA-Timesheet.png";
-import MyCarousel from "../MyCarousel";
+import { Carousel } from 'react-responsive-carousel';
+import HomePage from "../../screenshots/HomePage.png";
+import Postfeed from "../../screenshots/Postfeed.png";
+import Dashboard from "../../screenshots/Dashboard.png";
+import DeveloperProfiles from "../../screenshots/DeveloperProfiles.png";
 
 class Projects extends Component {
   render() {
@@ -9,12 +13,25 @@ class Projects extends Component {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6">
-              <MyCarousel />
+              <Carousel >
+									<div>
+                  			<img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={HomePage} alt="Connect 3 img 1"/>
+                  </div>
+                    <div>
+                        <img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={Dashboard} alt="Connect 3 img 2"/>
+                    </div>
+                    <div>
+                        <img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={DeveloperProfiles} alt="Connect 3 img 2"/>
+                    </div>
+                    <div>
+                        <img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={Postfeed} alt="Connect 3 img 2"/>
+                    </div>
+							</Carousel>
             </div>
 
             <div className="col-lg-6">
               <div className="project-item">
-                <h2 style={{display: "inline-block", paddingRight: "10px"}}>IHouse App</h2> 
+                <h2 style={{display: "inline-block", paddingRight: "10px"}}>StudentLinked</h2> 
                     <a class="github-button" 
                       href="https://github.com/rajmakda/Senior-Design-Project" 
                       data-icon="octicon-star" 
