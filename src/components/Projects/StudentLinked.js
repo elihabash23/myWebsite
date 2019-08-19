@@ -33,7 +33,7 @@ class Projects extends Component {
               <div className="project-item">
                 <h2 style={{display: "inline-block", paddingRight: "10px"}}>StudentLinked</h2> 
                     <a class="github-button" 
-                      href="https://github.com/rajmakda/Senior-Design-Project" 
+                      href="https://github.com/elihabash23/StudentLinked" 
                       data-icon="octicon-star" 
                       aria-label="Star ntkme/github-buttons on GitHub">Star</a>
                 <h4> Full Stack Developer </h4>
