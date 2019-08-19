@@ -8,11 +8,13 @@ import NewsReader from "./Projects/NewsReader";
 import WhatsTheWeather from "./Projects/WhatsTheWeather";
 import HikersWatch from "./Projects/HikersWatch";
 import PhotoGallery from "./Projects/PhotoGallery";
+import StudentLinked from "./Projects/StudentLinked";
 
 class Projects extends React.Component {
   render() {
     return (
       <div>
+        <StudentLinked />
         <IHouse />
         <LikeHome />
         <BetterWay />
