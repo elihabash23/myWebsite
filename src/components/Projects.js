@@ -9,11 +9,13 @@ import WhatsTheWeather from "./Projects/WhatsTheWeather";
 import HikersWatch from "./Projects/HikersWatch";
 import PhotoGallery from "./Projects/PhotoGallery";
 import StudentLinked from "./Projects/StudentLinked";
+import TicTacToe from "./Projects/TicTacToe";
 
 class Projects extends React.Component {
   render() {
     return (
       <div>
+        <TicTacToe />
         <StudentLinked />
         <IHouse />
         <LikeHome />

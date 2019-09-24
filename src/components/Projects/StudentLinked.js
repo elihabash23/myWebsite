@@ -6,7 +6,7 @@ import Postfeed from "../../screenshots/Postfeed.png";
 import Dashboard from "../../screenshots/Dashboard.png";
 import DeveloperProfiles from "../../screenshots/DeveloperProfiles.png";
 
-class Projects extends Component {
+class StudentLinked extends Component {
   render() {
     return (
       <div>
@@ -88,4 +88,4 @@ class Projects extends Component {
   }
 }
 
-export default Projects;
+export default StudentLinked;
