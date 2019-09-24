@@ -33,7 +33,7 @@ class TicTacToe extends Component {
               <div className="project-item">
                 <h2 style={{display: "inline-block", paddingRight: "10px"}}>TicTacToe</h2> 
                     <a class="github-button" 
-                      href="https://github.com/elihabash23/Blockchain-TicTacToe-Game" 
+                      href="https://github.com/elihabash23/TicTacToe-in-Solidity" 
                       data-icon="octicon-star" 
                       aria-label="Star ntkme/github-buttons on GitHub">Star</a>
 										<a style={{marginLeft: "10px"}}
