@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Projects from "./Projects.js";
-//import ProfilePic from "../screenshots/ProfilePic.jpg";
+import ProfilePic from "../screenshots/ProfilePic.jpg";
 import ProfilePicSuit from "../screenshots/ProfilePicSuit.jpg";
 import MySkillsBar from "./MySkillsBar";
 import Footer from "./Footer";
@@ -39,7 +39,7 @@ export default class Landing extends Component {
               <img
                 className="crop-image img-thumbnail profilePic"
                 alt="Project 1"
-                src={ProfilePicSuit}
+                src={ProfilePic}
               />
             </div>
           </div>
