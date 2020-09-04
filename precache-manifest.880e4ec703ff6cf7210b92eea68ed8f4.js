@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "7da10c413de7db99c263",
+    "revision": "4f6257a5c817c3e9b933",
     "url": "/myWebsite/static/css/main.ab3b7fc4.chunk.css"
   },
   {
-    "revision": "7da10c413de7db99c263",
-    "url": "/myWebsite/static/js/main.a38d35f3.chunk.js"
+    "revision": "4f6257a5c817c3e9b933",
+    "url": "/myWebsite/static/js/main.356563be.chunk.js"
   },
   {
     "revision": "11325f61e004574dc8d9",
     "url": "/myWebsite/static/js/runtime~main.91cccd61.js"
   },
   {
-    "revision": "b736a904b3e60ec9ed82",
+    "revision": "ef2d51dcbe6dbd690387",
     "url": "/myWebsite/static/css/2.c90c8308.chunk.css"
   },
   {
-    "revision": "b736a904b3e60ec9ed82",
-    "url": "/myWebsite/static/js/2.adadac58.chunk.js"
+    "revision": "ef2d51dcbe6dbd690387",
+    "url": "/myWebsite/static/js/2.105d5470.chunk.js"
   },
   {
     "revision": "272a303c327a0811c587814fb32bc370",
@@ -136,11 +136,7 @@ self.__precacheManifest = [
     "url": "/myWebsite/static/media/ProfilePic.65938b35.jpg"
   },
   {
-    "revision": "8139f14532615a9eafd879f44a9c2f43",
-    "url": "/myWebsite/static/media/ProfilePicSuit.8139f145.jpg"
-  },
-  {
-    "revision": "83e088bb99511a7bea9734c1d447a604",
+    "revision": "347228e3259a23af468c3645e5114689",
     "url": "/myWebsite/index.html"
   }
 ];
