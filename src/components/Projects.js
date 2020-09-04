@@ -2,12 +2,6 @@ import React from "react";
 import LikeHome from "./Projects/LikeHome";
 import IHouse from "./Projects/IHouse";
 import BetterWay from "./Projects/BetterWay";
-import Connect3 from "./Projects/Connect3";
-import BrainTrainer from "./Projects/BrainTrainer";
-import NewsReader from "./Projects/NewsReader";
-import WhatsTheWeather from "./Projects/WhatsTheWeather";
-import HikersWatch from "./Projects/HikersWatch";
-import PhotoGallery from "./Projects/PhotoGallery";
 import StudentLinked from "./Projects/StudentLinked";
 import TicTacToe from "./Projects/TicTacToe";
 
@@ -20,12 +14,6 @@ class Projects extends React.Component {
         <IHouse />
         <LikeHome />
         <BetterWay />
-        <PhotoGallery />
-        <Connect3 />
-        <BrainTrainer />
-        <NewsReader />
-        <WhatsTheWeather />
-        <HikersWatch />
       </div>
     );
   }

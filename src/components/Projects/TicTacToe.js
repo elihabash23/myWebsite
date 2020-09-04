@@ -39,7 +39,8 @@ class TicTacToe extends Component {
 										<a style={{marginLeft: "10px"}}
 											 class="btn btn-primary"
 											 href="https://elihabash23.github.io/Blockchain-TicTacToe-Game/"
-											 target="_blank">
+											 target="_blank"
+                       rel="noopener noreferrer">
 												Play Game
 										</a>
                 <h4> Full Stack Developer </h4>

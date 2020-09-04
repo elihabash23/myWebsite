@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import Projects from "./Projects.js";
 import ProfilePic from "../screenshots/ProfilePic.jpg";
-import MySkillsBar from "./MySkillsBar";
 import Footer from "./Footer";
 
 export default class Landing extends Component {
@@ -42,7 +41,6 @@ export default class Landing extends Component {
               />
             </div>
           </div>
-          <MySkillsBar />
           <hr />
           <Projects />
         </div>
