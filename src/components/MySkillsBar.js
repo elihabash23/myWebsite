@@ -10,11 +10,11 @@ class MySkillsBar extends Component {
       {type: "CSS/CSS3", level: 75},
       {type: "JavaScript", level: 75},
       {type: "React.js", level: 70},
-      {type: "jQuery", level: 60},
-      {type: "Node.js", level: 60},
-      {type: "MongoDB", level: 60},
       {type: "Java", level: 60},
-      {type: "AWS", level: 50}
+      {type: "jQuery", level: 50},
+      {type: "Node.js", level: 50},
+      {type: "MongoDB", level: 50},
+      {type: "AWS", level: 30}
     ];
     this.colors = {
       "bar": "#363c47",
