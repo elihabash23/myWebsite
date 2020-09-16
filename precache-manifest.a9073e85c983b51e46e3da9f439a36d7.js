@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "8f1113a4c5ed3f963a3f",
+    "revision": "d38af52130823aba30e8",
     "url": "/myWebsite/static/css/main.6c160b3b.chunk.css"
   },
   {
-    "revision": "8f1113a4c5ed3f963a3f",
-    "url": "/myWebsite/static/js/main.91c91fb6.chunk.js"
+    "revision": "d38af52130823aba30e8",
+    "url": "/myWebsite/static/js/main.ced7c051.chunk.js"
   },
   {
     "revision": "11325f61e004574dc8d9",
     "url": "/myWebsite/static/js/runtime~main.91cccd61.js"
   },
   {
-    "revision": "603d11607b8f9b055984",
+    "revision": "5f3ac35a59bfa8105153",
     "url": "/myWebsite/static/css/2.d657b7f6.chunk.css"
   },
   {
-    "revision": "603d11607b8f9b055984",
-    "url": "/myWebsite/static/js/2.16c62504.chunk.js"
+    "revision": "5f3ac35a59bfa8105153",
+    "url": "/myWebsite/static/js/2.b23de6f9.chunk.js"
   },
   {
     "revision": "312ca80c5f72acd5f25f50c3c62e93c6",
@@ -76,11 +76,31 @@ self.__precacheManifest = [
     "url": "/myWebsite/static/media/TicTacToe_StartingPage.c902a819.png"
   },
   {
+    "revision": "0c8633632e8d2d058db3500eb4e2bc8e",
+    "url": "/myWebsite/static/media/BuildABurger_Toppings1.0c863363.png"
+  },
+  {
+    "revision": "b4c016fd74c2d2f99c592e5656919ebf",
+    "url": "/myWebsite/static/media/BuildABurger_Toppings2.b4c016fd.png"
+  },
+  {
+    "revision": "fa92728bffe44639474f020804df4d62",
+    "url": "/myWebsite/static/media/BuildABurger_Receipt.fa92728b.png"
+  },
+  {
+    "revision": "95b192069a95373273badab22624f6e9",
+    "url": "/myWebsite/static/media/BuildABurger_Contact.95b19206.png"
+  },
+  {
+    "revision": "135dcd5fa21d2650a607f5cfe3d0ef4c",
+    "url": "/myWebsite/static/media/BuildABurger_Orders.135dcd5f.png"
+  },
+  {
     "revision": "65938b35e802f08d5ee3c4124f28d697",
     "url": "/myWebsite/static/media/ProfilePic.65938b35.jpg"
   },
   {
-    "revision": "09921ff23e24a23aba741993230e7a75",
+    "revision": "bc0b63c76a945221459dc4653b776f75",
     "url": "/myWebsite/index.html"
   }
 ];
