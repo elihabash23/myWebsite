@@ -5,12 +5,14 @@ import BetterWay from "./Projects/BetterWay";
 import StudentLinked from "./Projects/StudentLinked";
 import TicTacToe from "./Projects/TicTacToe";
 import BugTracker from "./Projects/2020/BugTracker";
+import BuildABurger from "./Projects/2020/BuildABurger";
 
 class Projects extends React.Component {
   render() {
     return (
       <div>
         <BugTracker />
+        <BuildABurger />
         <TicTacToe />
         <StudentLinked />
         <IHouse />
