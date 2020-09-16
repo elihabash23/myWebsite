@@ -11,7 +11,7 @@ class MySkillsBar extends Component {
       {type: "JavaScript", level: 75},
       {type: "React.js", level: 70},
       {type: "Java", level: 60},
-      {type: "jQuery", level: 50},
+      {type: "Selenium", level: 50},
       {type: "Node.js", level: 50},
       {type: "MongoDB", level: 50},
       {type: "AWS", level: 30}

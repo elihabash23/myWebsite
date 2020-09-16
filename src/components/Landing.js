@@ -15,7 +15,7 @@ export default class Landing extends Component {
               <p className="about-me">
                 Full stack engineer based in San Jose California. My main expertise 
                 is in web development and the tools I use today are MERN stack and 
-                AWS for development. 
+                AWS for development. For testing I use Selenium for UI automation testing. 
               </p>
 
               <p className="about-me">
