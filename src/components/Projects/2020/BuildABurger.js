@@ -1,6 +1,11 @@
 import React, { Component } from "react";
 import { Carousel } from 'react-responsive-carousel';
 import imageNotFound from '../../../screenshots/imageNotFound.png';
+import toppings1 from '../../../screenshots/BuildABurger_Toppings1.png';
+import toppings2 from '../../../screenshots/BuildABurger_Toppings2.png';
+import receipt from '../../../screenshots/BuildABurger_Receipt.png';
+import contactData from '../../../screenshots/BuildABurger_Contact.png';
+import orders from '../../../screenshots/BuildABurger_Orders.png';
 
 class BuildABurger extends Component {
   render() {
@@ -10,9 +15,21 @@ class BuildABurger extends Component {
           <div className="row align-items-center">
             <div className="col-lg-6">
               <Carousel >
-							<div>
-                  		<img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={imageNotFound} alt="BuildABurger img 1"/>
-                  	</div>
+							  <div>
+                  	<img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={toppings1} alt={imageNotFound}/>
+                </div>
+                <div>
+                  	<img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={toppings2} alt={imageNotFound}/>
+                </div>
+                <div>
+                  	<img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={receipt} alt={imageNotFound}/>
+                </div>
+                <div>
+                  	<img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={contactData} alt={imageNotFound}/>
+                </div>
+                <div>
+                  	<img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={orders} alt={imageNotFound}/>
+                </div>
 					</Carousel>
             </div>
 
