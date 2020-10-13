@@ -18,11 +18,18 @@ class BugTracker extends Component {
 
             <div className="col-lg-6">
               <div className="project-item">
-                <h2 style={{display: "inline-block", paddingRight: "10px"}}>BugTracker &#40;Still in the works...&#41;</h2> 
+                <h2 style={{display: "inline-block", paddingRight: "10px"}}>BugTracker</h2> 
                     <a class="github-button" 
                       href="https://github.com/elihabash23/BugTracker" 
                       data-icon="octicon-star" 
                       aria-label="Star ntkme/github-buttons on GitHub">Star</a>
+                      <a style={{marginLeft: "10px"}}
+											 class="btn btn-primary"
+											 href="https://dl4du9vgcwadb.cloudfront.net/"
+											 target="_blank"
+                       rel="noopener noreferrer">
+												Play Game
+										</a>
                 <h4> Full Stack Developer </h4>
                 <div className="project-description">
                   <p>
