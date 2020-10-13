@@ -28,7 +28,7 @@ class BugTracker extends Component {
 											 href="https://dl4du9vgcwadb.cloudfront.net/"
 											 target="_blank"
                        rel="noopener noreferrer">
-												Play Game
+												Go to Website
 										</a>
                 <h4> Full Stack Developer </h4>
                 <div className="project-description">
