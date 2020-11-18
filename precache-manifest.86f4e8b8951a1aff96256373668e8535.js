@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e231f3ea2d5a2de781de",
+    "revision": "7dad0ddac4cd5a0ee3a6",
     "url": "/myWebsite/static/css/main.6c160b3b.chunk.css"
   },
   {
-    "revision": "e231f3ea2d5a2de781de",
-    "url": "/myWebsite/static/js/main.3d87cc71.chunk.js"
+    "revision": "7dad0ddac4cd5a0ee3a6",
+    "url": "/myWebsite/static/js/main.978277eb.chunk.js"
   },
   {
     "revision": "11325f61e004574dc8d9",
     "url": "/myWebsite/static/js/runtime~main.91cccd61.js"
   },
   {
-    "revision": "5f3ac35a59bfa8105153",
+    "revision": "50d18affebefc52f108b",
     "url": "/myWebsite/static/css/2.d657b7f6.chunk.css"
   },
   {
-    "revision": "5f3ac35a59bfa8105153",
-    "url": "/myWebsite/static/js/2.b23de6f9.chunk.js"
+    "revision": "50d18affebefc52f108b",
+    "url": "/myWebsite/static/js/2.96d537ec.chunk.js"
   },
   {
     "revision": "312ca80c5f72acd5f25f50c3c62e93c6",
@@ -76,6 +76,18 @@ self.__precacheManifest = [
     "url": "/myWebsite/static/media/TicTacToe_StartingPage.c902a819.png"
   },
   {
+    "revision": "81591fa56bac621b5e566007273fecf5",
+    "url": "/myWebsite/static/media/BugTracker1.81591fa5.png"
+  },
+  {
+    "revision": "e1d6ec00e427f56338684bb71e32a152",
+    "url": "/myWebsite/static/media/BugTracker2.e1d6ec00.png"
+  },
+  {
+    "revision": "81ffa63d9ffc271d711987be37151f4a",
+    "url": "/myWebsite/static/media/BugTracker3.81ffa63d.png"
+  },
+  {
     "revision": "0c8633632e8d2d058db3500eb4e2bc8e",
     "url": "/myWebsite/static/media/BuildABurger_Toppings1.0c863363.png"
   },
@@ -96,11 +108,11 @@ self.__precacheManifest = [
     "url": "/myWebsite/static/media/BuildABurger_Orders.135dcd5f.png"
   },
   {
-    "revision": "65938b35e802f08d5ee3c4124f28d697",
-    "url": "/myWebsite/static/media/ProfilePic.65938b35.jpg"
+    "revision": "cbf40367c628b62327c87e607b0342f0",
+    "url": "/myWebsite/static/media/ProfilePic2.cbf40367.jpg"
   },
   {
-    "revision": "441885c95207004ad1d3055e0ae6f095",
+    "revision": "673a5a30a9f65c46c9de817db7df9ba4",
     "url": "/myWebsite/index.html"
   }
 ];
