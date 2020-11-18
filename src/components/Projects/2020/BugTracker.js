@@ -1,7 +1,9 @@
 import React, { Component } from "react";
 import { Carousel } from 'react-responsive-carousel';
 import imageNotFound from '../../../screenshots/imageNotFound.png';
-
+import BugTracker1 from '../../../screenshots/BugTracker1.png';
+import BugTracker2 from '../../../screenshots/BugTracker2.png';
+import BugTracker3 from '../../../screenshots/BugTracker3.png';
 class BugTracker extends Component {
   render() {
     return (
@@ -10,10 +12,16 @@ class BugTracker extends Component {
           <div className="row align-items-center">
             <div className="col-lg-6">
               <Carousel >
-							<div>
-                  		<img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={imageNotFound} alt="BugTracker img 1"/>
-                  	</div>
-					</Carousel>
+							    <div>
+                  		<img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={BugTracker1} alt="BugTracker img 1"/>
+                  </div>
+                  <div>
+                  		<img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={BugTracker2} alt="BugTracker img 2"/>
+                  </div>
+                  <div>
+                  		<img style={{border: '1px solid #dee2e6', borderRadius: '.25rem'}} src={BugTracker3} alt="BugTracker img 3"/>
+                  </div>
+					    </Carousel>
             </div>
 
             <div className="col-lg-6">
@@ -47,7 +55,7 @@ class BugTracker extends Component {
                   	<li>AWS</li>
                   	<li>DynamoDB</li>
                   	<li>S3</li>
-                  	<li>Cloud Computing</li>
+                  	<li>Cloud-Computing</li>
                   	<li>GraphQL</li>
                   </ul>
                 </div>
