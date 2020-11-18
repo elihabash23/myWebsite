@@ -48,6 +48,9 @@ class BugTracker extends Component {
 										the React.js library. Back end technologies consisted of AWS services
 										&#40;DynamoDB, Cognito for Authentication, S3 hosting, and GraphQL API with Amplify&#41;
                   </p>
+                  <p>
+                    Project is still in the works.
+                  </p>
                 </div>
                 <div className="project-technologies">
                   <ul className="skills">
