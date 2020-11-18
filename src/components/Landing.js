@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Projects from "./Projects.js";
-import ProfilePic from "../screenshots/ProfilePic.jpg";
+import ProfilePic from "../screenshots/ProfilePic2.jpg";
 import Footer from "./Footer";
 import MySkillsBar from "./MySkillsBar.js";
 
