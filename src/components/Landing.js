@@ -14,8 +14,8 @@ export default class Landing extends Component {
               <h2 id="Top" className="about-me-header">Welcome to My Web Portfolio!</h2>
               <p className="about-me">
                 Full stack engineer based in San Jose California. My main expertise 
-                is in web development and the tools I use today are MERN stack and 
-                AWS for development. For testing I use Selenium for UI automation testing. 
+                is in web development and a few tools I use today are MERN stack,  
+                AWS, and Selenium. I have an interests in blockchain technology and mobile development. 
               </p>
 
               <p className="about-me">
